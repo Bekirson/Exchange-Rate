@@ -1,0 +1,14 @@
+C:\Users\Bekirson\Desktop\C#\ExcelDataProcessor\Excel DataProcessor\bin\Debug\net10.0\ExcelDataProcessor.exe
+C:\Users\Bekirson\Desktop\C#\ExcelDataProcessor\Excel DataProcessor\bin\Debug\net10.0\ExcelDataProcessor.deps.json
+C:\Users\Bekirson\Desktop\C#\ExcelDataProcessor\Excel DataProcessor\bin\Debug\net10.0\ExcelDataProcessor.runtimeconfig.json
+C:\Users\Bekirson\Desktop\C#\ExcelDataProcessor\Excel DataProcessor\bin\Debug\net10.0\ExcelDataProcessor.dll
+C:\Users\Bekirson\Desktop\C#\ExcelDataProcessor\Excel DataProcessor\bin\Debug\net10.0\ExcelDataProcessor.pdb
+C:\Users\Bekirson\Desktop\C#\ExcelDataProcessor\Excel DataProcessor\obj\Debug\net10.0\ExcelDataProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bekirson\Desktop\C#\ExcelDataProcessor\Excel DataProcessor\obj\Debug\net10.0\ExcelDataProcessor.AssemblyInfoInputs.cache
+C:\Users\Bekirson\Desktop\C#\ExcelDataProcessor\Excel DataProcessor\obj\Debug\net10.0\ExcelDataProcessor.AssemblyInfo.cs
+C:\Users\Bekirson\Desktop\C#\ExcelDataProcessor\Excel DataProcessor\obj\Debug\net10.0\ExcelDataProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Bekirson\Desktop\C#\ExcelDataProcessor\Excel DataProcessor\obj\Debug\net10.0\ExcelDataProcessor.dll
+C:\Users\Bekirson\Desktop\C#\ExcelDataProcessor\Excel DataProcessor\obj\Debug\net10.0\refint\ExcelDataProcessor.dll
+C:\Users\Bekirson\Desktop\C#\ExcelDataProcessor\Excel DataProcessor\obj\Debug\net10.0\ExcelDataProcessor.pdb
+C:\Users\Bekirson\Desktop\C#\ExcelDataProcessor\Excel DataProcessor\obj\Debug\net10.0\ExcelDataProcessor.genruntimeconfig.cache
+C:\Users\Bekirson\Desktop\C#\ExcelDataProcessor\Excel DataProcessor\obj\Debug\net10.0\ref\ExcelDataProcessor.dll
